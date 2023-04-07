@@ -1,0 +1,588 @@
+/* phone */
+
+@media only screen and (max-width: 600px) {
+  .pad-style {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  /* slideshow section? */
+  .slide-text1 {
+    margin-top: 90px;
+    padding-left: 5px;
+  }
+  .slide-text2 {
+    margin-top: 80px;
+    padding-right: 25px;
+  }
+  .head {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .slide-pic {
+    margin-top: 26px;
+  }
+  .text1 {
+    border-left: 1px solid black;
+    padding-left: 20px;
+    font-size: 14px;
+    width: fit-content;
+  }
+  .text2 {
+    border-right: 1px solid black;
+    padding-right: 20px;
+    padding-left: 30px;
+    font-size: 14px;
+    width: fit-content;
+  }
+
+  .prevcol {
+    display: none;
+  }
+  .vid-btn {
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: white;
+    padding: 27px;
+    margin-top: 18px;
+  }
+  .animate-btn {
+    padding: 8px 20px;
+  }
+  .vid-btn {
+    padding: 12px;
+  }
+  .learn {
+    padding: 8px 20px;
+    margin-left: 15px;
+  }
+  .dots {
+    display: none;
+  }
+
+  /* relative top  */
+  .find-now {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    position: relative;
+    top: 90px;
+    padding: 20px;
+    margin-bottom: 200px;
+  }
+
+  .drop-btn {
+    margin-right: 20px;
+  }
+  .dbtn {
+    padding: 20px 170px 20px 30px;
+  }
+  .dbtn1 {
+    padding: 20px 155px 20px 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  .find {
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  /* about us */
+
+  .absolute-img {
+    position: absolute;
+    width: 90%;
+  }
+  .ab {
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 68%;
+  }
+  .vid-bg {
+    position: relative;
+
+    right: 12%;
+    top: 95%;
+  }
+  .vid-bg-btn {
+    position: relative;
+    right: 62%;
+    top: 95%;
+  }
+  .ab-icon {
+    font-size: 16px;
+  }
+  .ab-head {
+    margin-top: 15px;
+    font-size: 24px;
+  }
+  .ab-text {
+    font-size: 14px;
+  }
+  .ab-subtext {
+    margin-top: 15px;
+  }
+  .txt-bg {
+    margin-right: 5px;
+    font-size: 14px;
+    padding: 15px;
+  }
+
+  /* counter section */
+  .count-pad {
+    padding-right: 10px;
+  }
+  .counter-div {
+    padding-left: 80px;
+    padding-right: 90px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .count-p {
+    padding-left: 1px;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 15px;
+  }
+  .count {
+    padding-left: 68px;
+    font-size: 30px;
+    margin-top: 10px;
+  }
+  .counter-img {
+    margin-bottom: 10px;
+  }
+
+  /* second about us */
+  .sec-ab-div {
+    padding-left: 10px;
+    padding-right: 2px;
+    padding-bottom: 120px;
+  }
+  .sec-ab-pad {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .ab-text1 {
+    font-size: 13px;
+  }
+  .text-ic-div {
+    margin-bottom: 40px;
+  }
+  .mini-grid-div {
+    margin-bottom: 40px;
+    padding-left: 20px;
+  }
+  .grid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  /* services section begins  */
+  .services-div {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 130px;
+  }
+  .crd-space {
+    margin-bottom: 40px;
+  }
+
+  /* properties section begins */
+
+  .props-secc {
+    padding: 20px;
+  }
+  .hidee {
+    display: none;
+  }
+  .ind-style {
+    background-color: orangered;
+    position: relative;
+    top: 80px;
+    /* !important */
+  }
+  .dot {
+    border-radius: 40%;
+  }
+  .img-check {
+    padding: 10px;
+  }
+  .crd-title {
+    margin-left: 60%;
+    margin-right: 15%;
+  }
+  .propicon-bg {
+    background-color: rgb(123, 122, 122);
+  }
+  .text-overlay-space {
+    margin-top: -15px;
+
+    font-size: 13px;
+  }
+  .text-sp {
+    margin-right: 40px;
+  }
+  .padd {
+    padding: 4px;
+  }
+  .space2 {
+    margin-left: 10px;
+  }
+  .crd-sm-im {
+    border-radius: 50%;
+  }
+  .fsize {
+    font-size: 24px;
+  }
+
+  .ic-marg {
+    padding-left: 120px;
+    margin-bottom: 40px;
+  }
+
+  /* apartment section begins */
+  .apartment-sec {
+    margin-top: 150px;
+  }
+  .li-pd {
+    padding-left: 20px;
+    padding-right: 5px;
+  }
+  .f-size {
+    font-size: 14px;
+    margin-right: 30px;
+  }
+  .props-sec {
+    padding-left: 25px;
+    padding-right: 18px;
+  }
+  .props-spec {
+    padding: 25px;
+    font-size: 14px;
+  }
+  .apart-img {
+    margin-top: 40px;
+    padding-left: 5px;
+  }
+
+  /* background image section */
+  .bg-vid-btn {
+    margin-top: 150px;
+    margin-left: 40%;
+  }
+
+  /* amenities section */
+
+  .card-im {
+    border-radius: 50%;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+    background-color: #f5dfdc;
+  }
+  .crd-r1 {
+    margin-bottom: 50px;
+  }
+
+  /* testimonial section begins */
+  .qbg-img {
+    padding-top: 50px;
+    margin-bottom: 90px;
+  }
+  .fo-size {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .fosize {
+    font-size: 12px;
+  }
+  .date {
+    padding-top: 4px;
+  }
+  .date-txt {
+    padding-left: 35px;
+  }
+
+  /* second relative top begins */
+
+  .rel-top-div {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 50px 30px;
+    position: relative;
+    top: 160px;
+  }
+  .rel-btn {
+    margin-top: 20px;
+    margin-left: 13%;
+    background-color: white;
+    padding: 10px 25px;
+    font-size: 14px;
+  }
+
+  /* footer section begins */
+  .footer {
+    padding: 230px 10px 25px 2px;
+  }
+
+  /* semi-footer begins */
+  .sec-footer {
+    padding: 20px 60px 30px 50px;
+  }
+  .semi-foot {
+    margin-left: 10px;
+    padding-top: 90px;
+  }
+  .semi-txt {
+    margin-right: 20px;
+    font-weight: bold;
+  }
+  .sm-txt {
+    margin-left: 60px;
+  }
+}
+
+
+
+
+
+/* tablet */
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
+  .pad-style {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /* slideshow section? */
+  .head {
+    font-size: 40px;
+  }
+  .h1 {
+    margin-right: 250px;
+  }
+  .h2 {
+    margin-left: 250px;
+  }
+  .h2-min {
+    margin-left: 100px;
+  }
+  .slide-text2 {
+    margin-top: 80px;
+    padding-right: 40px;
+  }
+
+  /* relative top  */
+  .find-now {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    position: relative;
+    top: 90px;
+    padding: 20px;
+    margin-bottom: 200px;
+  }
+
+  .drop-btn {
+    margin-right: 10px;
+    padding: 20px 190px 20px 30px;
+  }
+
+  .dbtn {
+    margin-right: 30px;
+  }
+  .dbtn1 {
+    padding: 20px 145px 20px 30px;
+    margin-bottom: 20px;
+  }
+
+  .find {
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  /* about us */
+  .absolute-img {
+    position: absolute;
+    width: 100%;
+  }
+
+  .ab {
+    text-align: left;
+    padding-right: 30px;
+    padding-left: 50px;
+    padding-top: 68%;
+  }
+
+  .vid-bg {
+    position: relative;
+    right: 4%;
+    top: 109%;
+  }
+  .vid-bg-btn {
+    position: relative;
+    right: 50%;
+    top: 110%;
+  }
+  .animate-btn {
+    padding: 8px 20px;
+  }
+  /* counter section */
+  .counter-div {
+    padding-left: 30px;
+
+    padding-right: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .count-p {
+    padding-left: 0px;
+    margin-left: 0px;
+    text-align: center;
+
+    font-size: 11px;
+    margin-top: 15px;
+  }
+  .count {
+    padding-left: 10px;
+
+    font-size: 36px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .counter-img {
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+
+  /* second about us */
+  .ab-head {
+    margin-top: 26px;
+    font-size: 24px;
+  }
+  .sec-ab-div {
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-bottom: 120px;
+  }
+  .ab-text1 {
+    font-size: 14px;
+  }
+  .mini-grid-div {
+    margin-bottom: 50px;
+  }
+  .grid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  /* services section */
+  .lone-crd {
+    margin-top: 30px;
+    margin-left: 25%;
+  }
+
+  /* properties section */
+  .hide-md {
+    display: none;
+  }
+  .props-secc {
+    padding: 10px;
+  }
+  .fsize {
+    font-size: 16px;
+  }
+
+  /* apartment section */
+
+  .apartment-sec {
+    margin-top: 200px;
+  }
+  .f-size {
+    font-size: 14px;
+    margin-right: 30px;
+    font-weight: bold;
+  }
+
+  .stud-txt1 {
+    font-size: 22px;
+  }
+
+  .stud-txt2 {
+    font-size: 20px;
+  }
+  .apart-img {
+    margin-top: 40px;
+    padding-left: 5px;
+  }
+  /* background-image section */
+  .bg-vid-btn {
+    margin-top: 150px;
+    margin-left: 45%;
+  }
+
+  /* amenities section begins */
+  .ab-text1 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  /* news section */
+  .props-sec {
+    padding: 10px;
+  }
+
+  /* second relative top begins */
+
+  .rel-top-div {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 50px 30px;
+    position: relative;
+    top: 160px;
+  }
+
+  .fsize {
+    font-size: 26px;
+
+    margin-left: 150px;
+    font-weight: bold;
+  }
+  .fsize-sub {
+    font-size: 14px;
+    margin-left: 150px;
+    padding-top: 15px;
+  }
+  .rel-btn {
+    margin-top: 10px;
+    margin-left: 34%;
+    background-color: white;
+    padding: 10px 30px;
+    font-size: 16px;
+  }
+  /* footer section */
+
+  .footer {
+    padding: 230px 10px 65px 2px;
+  }
+
+  /* semi-footer begins */
+  .sec-footer {
+    padding: 20px 60px 30px 50px;
+  }
+
+  .semi-foot {
+    margin-left: 2px;
+    padding-top: 90px;
+  }
+  .semi-txt {
+    margin-right: 10px;
+    margin-left: 6px;
+    font-weight: bold;
+  }
+  .sm-txt {
+    margin-left: 6px;
+  }
+  .smt {
+    font-size: 14px;
+  }
+}
